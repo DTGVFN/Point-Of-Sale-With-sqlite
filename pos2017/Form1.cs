@@ -70,18 +70,18 @@ namespace pos2017
         {
             InitializeComponent();
             POS_SIZE.ReSize(this);
-            this.Controls.Add(Dg_Items_List);
-            this.Controls.Add(FlowRightMain);
-            this.Controls.Add(FlowFaviritor);
-            this.Controls.Add(FlowButtonManager);
-            this.Controls.Add(LEDCalculator);
-            this.Controls.Add(FlowSticky);
-            Create_Button_Layout();
-            GridviewStatus = "NEW";
-            GridviewHoldBillEditID = "NO";
-            GridviewClearData();
-            LoadButtonItemMenu(1);
-            StickyFlowView();
+            //this.Controls.Add(Dg_Items_List);
+            //this.Controls.Add(FlowRightMain);
+            //this.Controls.Add(FlowFaviritor);
+            //this.Controls.Add(FlowButtonManager);
+            //this.Controls.Add(LEDCalculator);
+            //this.Controls.Add(FlowSticky);
+            //Create_Button_Layout();
+            //GridviewStatus = "NEW";
+            //GridviewHoldBillEditID = "NO";
+            //GridviewClearData();
+            //LoadButtonItemMenu(1);
+            //StickyFlowView();
 
         }
 
