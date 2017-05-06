@@ -1,0 +1,10 @@
+D:\Cs_Project_2017\pos2017\pos2017\bin\Debug\pos2017.exe.config
+D:\Cs_Project_2017\pos2017\pos2017\bin\Debug\pos2017.exe
+D:\Cs_Project_2017\pos2017\pos2017\bin\Debug\pos2017.pdb
+D:\Cs_Project_2017\pos2017\pos2017\bin\Debug\System.Data.SQLite.dll
+D:\Cs_Project_2017\pos2017\pos2017\obj\Debug\pos2017.Properties.Resources.resources
+D:\Cs_Project_2017\pos2017\pos2017\obj\Debug\POS_2017.csproj.GenerateResource.Cache
+D:\Cs_Project_2017\pos2017\pos2017\obj\Debug\pos2017.exe
+D:\Cs_Project_2017\pos2017\pos2017\obj\Debug\pos2017.pdb
+D:\Cs_Project_2017\pos2017\pos2017\obj\Debug\POS_2017.csprojResolveAssemblyReference.cache
+D:\Cs_Project_2017\pos2017\pos2017\obj\Debug\pos2017.UserControls.Admin_Stock.resources
